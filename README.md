@@ -21,6 +21,9 @@ Requirements: VSCode, Node js, MetaMask, Hardhat
 9. Create another network that will connect your MetaMask wallet to the localhost, "http://127.0.0.1:8545".
 10. You can not import your wallet to the front-end by clicking on the button presented.
 
+### File
+This it the Google Drive Link towards the project folder:
+https://drive.google.com/file/d/1SuoQnTw6A4pqxlGt3krUt6YRey8K_RXk/view?usp=sharing
 
 ## Authors
 
